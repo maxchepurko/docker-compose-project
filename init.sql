@@ -12,7 +12,7 @@ INSERT INTO test_table (name, surname, city, age) VALUES
 ('Lena', 'Petrova', 'Moscow', 28),
 ('Ivan', 'Ivanov', 'Moscow', 70),
 ('Olga', 'Sidorova', 'Saint Petersburg', 45),
-('Max', 'Kozlov', 'Berlin', 35),
+('Maxim', 'Kozlov', 'Berlin', 35),
 ('Pavel', 'Smirnov', 'Paris', 55),
 ('Nina', 'Sokolova', 'Vienna', 65),
 ('Mark', 'Kuznetsov', 'Amsterdam', 23),
